@@ -1,0 +1,159 @@
+{
+ "updatedAt": "2026-11-09T01:58:03.500Z",
+ "hash": "cf1169f0d114da2f",
+ "lang": "tr",
+ "license": {
+  "text": "CC BY-SA 3.0, GTA Wiki (Fandom)",
+  "url": "https://www.fandom.com/licensing"
+ },
+ "characters": [
+  {
+   "id": "jason",
+   "name": "Jason Duval",
+   "role": "Ana karakter",
+   "age": null,
+   "image": null,
+   "color": "#00A3FF",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Jason, Grand Theft Auto VI'nın iki ana karakterinden biri. Küçük çaplı suçlular ve dolandırıcılar arasında büyüdü. Sorunlu gençliğini geride bırakmak için bir süre orduda kaldıktan sonra Leonida Keys'e düştü ve yerel uyuşturucu kaçakçıları için en iyi bildiği işi yapıyor.",
+    "narrative": "Jason sakin bir hayat istiyor ama işler giderek zorlaşıyor. Lucia ile ortaklığı hikâyenin merkezinde.",
+    "extras": "Jason, Rockstar Games'in yayımladığı iki resmî fragmanda da yer alıyor."
+   },
+   "source": {
+    "title": "GTA Wiki: Jason Duval",
+    "url": "https://gta.fandom.com/wiki/Jason_Duval"
+   }
+  },
+  {
+   "id": "lucia",
+   "name": "Lucia Caminos",
+   "role": "Ana karakter",
+   "age": null,
+   "image": null,
+   "color": "#FF2D95",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Lucia, Grand Theft Auto VI'nın iki ana karakterinden biri. Babası ona çok küçük yaşta dövüşmeyi öğretti ve hayat o günden beri ona yumruk atmayı bırakmadı. Ailesi için savaşması onu bir Leonida hapishanesine düşürdü.",
+    "narrative": "Hapisten çıkınca daha iyi bir hayat kurmaya kararlı olan Lucia, Jason ile güçlerini birleştirir.",
+    "extras": "Lucia, 3D dönemi ana GTA oyunlarındaki ilk oynanabilir kadın ana karakter."
+   },
+   "source": {
+    "title": "GTA Wiki: Lucia Caminos",
+    "url": "https://gta.fandom.com/wiki/Lucia_Caminos"
+   }
+  },
+  {
+   "id": "cal",
+   "name": "Cal Hampton",
+   "role": "Yan karakter",
+   "age": null,
+   "image": null,
+   "color": "#22C55E",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Jason'ın arkadaşı ve Brian'ın ortağı. Cal kendini en güvende evde, birkaç biranın eşliğinde Sahil Güvenlik telsizini dinlerken ve kafası komplo teorileriyle doluyken hissediyor. Dipte mutlu ama Jason'ın daha büyük planları var."
+   },
+   "source": {
+    "title": "GTA Wiki: Cal Hampton",
+    "url": "https://gta.fandom.com/wiki/Cal_Hampton"
+   }
+  },
+  {
+   "id": "boobie",
+   "name": "Boobie Ike",
+   "role": "Yan karakter",
+   "age": null,
+   "image": null,
+   "color": "#FACC15",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Geçmişini yasal bir imparatorluğa dönüştüren bir Vice City sokak efsanesi: emlak, bir striptiz kulübü ve bir kayıt stüdyosu. İş konuşma zamanı gelene kadar hep güler yüzlü. En büyük yatırımı, Dre'Quan ile yönettiği plak şirketi Only Raw Records."
+   },
+   "source": {
+    "title": "GTA Wiki: Boobie Ike",
+    "url": "https://gta.fandom.com/wiki/Boobie_Ike"
+   }
+  },
+  {
+   "id": "drequan",
+   "name": "Dre'Quan Priest",
+   "role": "Yan karakter",
+   "age": null,
+   "image": null,
+   "color": "#8B5CF6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Gangsterden çok bir üçkâğıtçı olan Dre'Quan, geçinmek için sokakta mal sattı ama hedefi hep müzikti. Boobie ile Only Raw Records'u yönetiyor ve Vice City sahnesini hedefleyerek Real Dimez ikilisiyle yeni anlaştı."
+   },
+   "source": {
+    "title": "GTA Wiki: Dre'Quan Priest",
+    "url": "https://gta.fandom.com/wiki/Dre'Quan_Priest"
+   }
+  },
+  {
+   "id": "realdimez",
+   "name": "Real Dimez",
+   "role": "Rap ikilisi",
+   "age": null,
+   "image": null,
+   "color": "#F97316",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Liseden beri arkadaş olan Bae-Luxe ve Roxy, viral şarkılar ve durmaksızın süren sosyal medya varlığıyla rap ikilisi Real Dimez oldu. Yerel rapçi DWNPLY ile yaptıkları erken bir hit onları ünlü yaptı; beş yıl sonra şimdi yeni bir hit umuduyla Only Raw Records ile anlaştılar."
+   },
+   "source": {
+    "title": "GTA Wiki: Real Dimez",
+    "url": "https://gta.fandom.com/wiki/Real_Dimez"
+   }
+  },
+  {
+   "id": "raul",
+   "name": "Raul Bautista",
+   "role": "Yan karakter",
+   "age": null,
+   "image": null,
+   "color": "#EF4444",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Kendine güvenen ve karizmatik, büyük riskler almaya hazır yeni yetenekler arayan kıdemli bir banka soyguncusu. Vice City'de Jason ve Lucia'ya bir tür akıl hocası olur ama pervasızlığı her soygunda riski artırır."
+   },
+   "source": {
+    "title": "GTA Wiki: Raul Bautista",
+    "url": "https://gta.fandom.com/wiki/Raul_Bautista"
+   }
+  },
+  {
+   "id": "brian",
+   "name": "Brian Heder",
+   "role": "Yan karakter",
+   "age": null,
+   "image": null,
+   "color": "#14B8A6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Keys'teki kaçakçılığın altın çağından kalma eski usul bir uyuşturucu kaçakçısı; üçüncü eşi Lori ile hâlâ tersanesi üzerinden mal taşıyor. Jason'ın yerel haraç işlerine yardım etmesi karşılığında mülklerinden birinde kira ödemeden kalmasına izin veriyor."
+   },
+   "source": {
+    "title": "GTA Wiki: Brian Heder",
+    "url": "https://gta.fandom.com/wiki/Brian_Heder"
+   }
+  }
+ ]
+}

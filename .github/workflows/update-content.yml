@@ -1,0 +1,40 @@
+# Roda o robô 3x por dia no GitHub (grátis) e publica os JSON em data/.
+# O app lê de: https://raw.githubusercontent.com/<usuario>/<repo>/main/data
+#
+# Configurar em: GitHub > repositório > Settings > Secrets and variables > Actions
+#   YOUTUBE_API_KEY    (obrigatório)
+#   ANTHROPIC_API_KEY  (opcional, traduz a wiki)
+name: Update content
+
+on:
+  schedule:
+    - cron: "0 */8 * * *" # a cada 8h (cabe na cota grátis de 10.000 unidades/dia)
+  workflow_dispatch: {}   # botão "Run workflow" para rodar na hora
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install
+        working-directory: robot
+        run: npm install --omit=dev
+      - name: Run robot
+        working-directory: robot
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node update.mjs
+      - name: Commit changes
+        run: |
+          git config user.name "content-bot"
+          git config user.email "content-bot@users.noreply.github.com"
+          git add data robot/cache
+          git diff --cached --quiet || git commit -m "Update content $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

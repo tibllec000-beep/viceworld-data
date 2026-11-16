@@ -1,0 +1,159 @@
+{
+ "updatedAt": "2026-11-09T01:58:03.502Z",
+ "hash": "9401c8bd9d462e7c",
+ "lang": "ar",
+ "license": {
+  "text": "CC BY-SA 3.0, GTA Wiki (Fandom)",
+  "url": "https://www.fandom.com/licensing"
+ },
+ "characters": [
+  {
+   "id": "jason",
+   "name": "Jason Duval",
+   "role": "شخصية رئيسية",
+   "age": null,
+   "image": null,
+   "color": "#00A3FF",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "جيسون هو أحد بطلَي Grand Theft Auto VI. نشأ وسط صغار المجرمين والمحتالين. بعد فترة في الجيش حاول فيها ترك شبابه المضطرب خلفه، انتهى به المطاف في Leonida Keys يعمل لدى مهربي المخدرات المحليين فيما يجيده أكثر من أي شيء.",
+    "narrative": "يريد جيسون حياة سهلة، لكن الأمور تزداد صعوبة. شراكته مع لوسيا هي محور القصة.",
+    "extras": "يظهر جيسون في المقطعين الدعائيين الرسميين اللذين أصدرتهما Rockstar Games."
+   },
+   "source": {
+    "title": "GTA Wiki: Jason Duval",
+    "url": "https://gta.fandom.com/wiki/Jason_Duval"
+   }
+  },
+  {
+   "id": "lucia",
+   "name": "Lucia Caminos",
+   "role": "شخصية رئيسية",
+   "age": null,
+   "image": null,
+   "color": "#FF2D95",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "لوسيا هي إحدى بطلَي Grand Theft Auto VI. علّمها والدها القتال منذ صغرها، ولم تتوقف الحياة عن توجيه اللكمات إليها منذ ذلك الحين. قتالها من أجل عائلتها هو ما أوصلها إلى أحد سجون ليونيدا.",
+    "narrative": "بعد خروجها، تصمم لوسيا على بناء حياة أفضل وتتحالف مع جيسون.",
+    "extras": "لوسيا هي أول بطلة أنثى قابلة للعب في لعبة GTA رئيسية من حقبة الأبعاد الثلاثية."
+   },
+   "source": {
+    "title": "GTA Wiki: Lucia Caminos",
+    "url": "https://gta.fandom.com/wiki/Lucia_Caminos"
+   }
+  },
+  {
+   "id": "cal",
+   "name": "Cal Hampton",
+   "role": "شخصية ثانوية",
+   "age": null,
+   "image": null,
+   "color": "#22C55E",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "صديق جيسون وشريك براين. يشعر كال بالأمان في منزله فقط، يتنصت على لاسلكي خفر السواحل مع بعض الجعة ورأسه مليء بنظريات المؤامرة. هو سعيد في القاع، لكن جيسون لديه خطط أكبر."
+   },
+   "source": {
+    "title": "GTA Wiki: Cal Hampton",
+    "url": "https://gta.fandom.com/wiki/Cal_Hampton"
+   }
+  },
+  {
+   "id": "boobie",
+   "name": "Boobie Ike",
+   "role": "شخصية ثانوية",
+   "age": null,
+   "image": null,
+   "color": "#FACC15",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "أسطورة شوارع Vice City حوّل ماضيه إلى إمبراطورية قانونية: عقارات وملهى تعرٍّ واستوديو تسجيل. كله ابتسامات حتى يحين وقت الحديث عن العمل. رهانه الأكبر هو Only Raw Records، شركة التسجيلات التي يديرها مع دريكوان."
+   },
+   "source": {
+    "title": "GTA Wiki: Boobie Ike",
+    "url": "https://gta.fandom.com/wiki/Boobie_Ike"
+   }
+  },
+  {
+   "id": "drequan",
+   "name": "Dre'Quan Priest",
+   "role": "شخصية ثانوية",
+   "age": null,
+   "image": null,
+   "color": "#8B5CF6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "كان دريكوان دائمًا محتالًا أكثر منه رجل عصابات. تاجر في الشوارع ليعيش، لكن هدفه كان دائمًا الموسيقى. يدير Only Raw Records مع بوبي، وقد وقّع للتو مع الثنائي Real Dimez واضعًا عينه على ساحة Vice City."
+   },
+   "source": {
+    "title": "GTA Wiki: Dre'Quan Priest",
+    "url": "https://gta.fandom.com/wiki/Dre'Quan_Priest"
+   }
+  },
+  {
+   "id": "realdimez",
+   "name": "Real Dimez",
+   "role": "ثنائي راب",
+   "age": null,
+   "image": null,
+   "color": "#F97316",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "باي-لوكس وروكسي صديقتان منذ المدرسة الثانوية، أصبحتا ثنائي الراب Real Dimez بفضل أغانٍ انتشرت بسرعة وحضور لا يتوقف على مواقع التواصل. جعلتهما أغنية ناجحة مبكرة مع مغني الراب المحلي DWNPLY مشهورتين؛ والآن، بعد خمس سنوات، وقّعتا مع Only Raw Records على أمل تكرار النجاح."
+   },
+   "source": {
+    "title": "GTA Wiki: Real Dimez",
+    "url": "https://gta.fandom.com/wiki/Real_Dimez"
+   }
+  },
+  {
+   "id": "raul",
+   "name": "Raul Bautista",
+   "role": "شخصية ثانوية",
+   "age": null,
+   "image": null,
+   "color": "#EF4444",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "لص بنوك مخضرم واثق وجذاب، يبحث دائمًا عن مواهب جديدة مستعدة للمخاطرة الكبيرة. يصبح ما يشبه المرشد لجيسون ولوسيا في Vice City، لكن تهوره يرفع المخاطر مع كل عملية سطو."
+   },
+   "source": {
+    "title": "GTA Wiki: Raul Bautista",
+    "url": "https://gta.fandom.com/wiki/Raul_Bautista"
+   }
+  },
+  {
+   "id": "brian",
+   "name": "Brian Heder",
+   "role": "شخصية ثانوية",
+   "age": null,
+   "image": null,
+   "color": "#14B8A6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "مهرّب من المدرسة القديمة من العصر الذهبي للتهريب في Keys، لا يزال ينقل البضائع عبر حوض قواربه مع زوجته الثالثة لوري. يسمح لجيسون بالسكن مجانًا في أحد عقاراته ما دام يساعده في عمليات الابتزاز المحلية."
+   },
+   "source": {
+    "title": "GTA Wiki: Brian Heder",
+    "url": "https://gta.fandom.com/wiki/Brian_Heder"
+   }
+  }
+ ]
+}

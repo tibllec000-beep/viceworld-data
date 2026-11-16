@@ -1,0 +1,159 @@
+{
+ "updatedAt": "2026-11-09T01:58:03.505Z",
+ "hash": "0b098c38a23cb99c",
+ "lang": "hi",
+ "license": {
+  "text": "CC BY-SA 3.0, GTA Wiki (Fandom)",
+  "url": "https://www.fandom.com/licensing"
+ },
+ "characters": [
+  {
+   "id": "jason",
+   "name": "Jason Duval",
+   "role": "मुख्य किरदार",
+   "age": null,
+   "image": null,
+   "color": "#00A3FF",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "जेसन Grand Theft Auto VI के दो मुख्य किरदारों में से एक है। वह छोटे-मोटे अपराधियों और ठगों के बीच बड़ा हुआ। अपनी परेशान जवानी को पीछे छोड़ने के लिए कुछ समय सेना में रहने के बाद, वह Leonida Keys पहुँच गया, जहाँ वह स्थानीय ड्रग तस्करों के लिए वही काम करता है जो उसे सबसे अच्छा आता है।",
+    "narrative": "जेसन आसान ज़िंदगी चाहता है, लेकिन हालात और मुश्किल होते जाते हैं। लूसिया के साथ उसकी साझेदारी कहानी के केंद्र में है।",
+    "extras": "जेसन Rockstar Games के दोनों आधिकारिक ट्रेलरों में दिखाई देता है।"
+   },
+   "source": {
+    "title": "GTA Wiki: Jason Duval",
+    "url": "https://gta.fandom.com/wiki/Jason_Duval"
+   }
+  },
+  {
+   "id": "lucia",
+   "name": "Lucia Caminos",
+   "role": "मुख्य किरदार",
+   "age": null,
+   "image": null,
+   "color": "#FF2D95",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "लूसिया Grand Theft Auto VI की दो मुख्य किरदारों में से एक है। उसके पिता ने उसे बहुत छोटी उम्र से लड़ना सिखाया, और तब से ज़िंदगी उस पर वार करती आ रही है। अपने परिवार के लिए लड़ने की वजह से वह लियोनिडा की जेल पहुँच गई।",
+    "narrative": "जेल से निकलने के बाद लूसिया बेहतर ज़िंदगी बनाने के लिए दृढ़ है, और वह जेसन के साथ मिल जाती है।",
+    "extras": "लूसिया 3D दौर के मुख्य GTA गेम्स में पहली खेलने योग्य महिला मुख्य किरदार है।"
+   },
+   "source": {
+    "title": "GTA Wiki: Lucia Caminos",
+    "url": "https://gta.fandom.com/wiki/Lucia_Caminos"
+   }
+  },
+  {
+   "id": "cal",
+   "name": "Cal Hampton",
+   "role": "सहायक किरदार",
+   "age": null,
+   "image": null,
+   "color": "#22C55E",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "जेसन का दोस्त और ब्रायन का साथी। कैल को सबसे ज़्यादा सुरक्षित घर पर लगता है, जहाँ वह कुछ बियर के साथ कोस्ट गार्ड का रेडियो सुनता है और उसका दिमाग़ साज़िश की थ्योरियों से भरा रहता है। वह नीचे रहकर खुश है, लेकिन जेसन के इरादे बड़े हैं।"
+   },
+   "source": {
+    "title": "GTA Wiki: Cal Hampton",
+    "url": "https://gta.fandom.com/wiki/Cal_Hampton"
+   }
+  },
+  {
+   "id": "boobie",
+   "name": "Boobie Ike",
+   "role": "सहायक किरदार",
+   "age": null,
+   "image": null,
+   "color": "#FACC15",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Vice City की गलियों का दिग्गज, जिसने अपने अतीत को एक क़ानूनी साम्राज्य में बदल दिया: रियल एस्टेट, एक स्ट्रिप क्लब और एक रिकॉर्डिंग स्टूडियो। काम की बात आने तक वह मुस्कुराता रहता है। उसका सबसे बड़ा दाँव Only Raw Records है, जिसे वह ड्रेक्वान के साथ चलाता है।"
+   },
+   "source": {
+    "title": "GTA Wiki: Boobie Ike",
+    "url": "https://gta.fandom.com/wiki/Boobie_Ike"
+   }
+  },
+  {
+   "id": "drequan",
+   "name": "Dre'Quan Priest",
+   "role": "सहायक किरदार",
+   "age": null,
+   "image": null,
+   "color": "#8B5CF6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "हमेशा गैंगस्टर से ज़्यादा जुगाड़ू, ड्रेक्वान ने गुज़ारे के लिए सड़कों पर धंधा किया, लेकिन उसका लक्ष्य हमेशा संगीत था। वह बूबी के साथ Only Raw Records चलाता है और Vice City के म्यूज़िक सीन पर नज़र रखते हुए अभी-अभी Real Dimez जोड़ी को साइन किया है।"
+   },
+   "source": {
+    "title": "GTA Wiki: Dre'Quan Priest",
+    "url": "https://gta.fandom.com/wiki/Dre'Quan_Priest"
+   }
+  },
+  {
+   "id": "realdimez",
+   "name": "Real Dimez",
+   "role": "रैप जोड़ी",
+   "age": null,
+   "image": null,
+   "color": "#F97316",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "हाई स्कूल से दोस्त बे-लक्स और रॉक्सी वायरल गानों और सोशल मीडिया पर लगातार मौजूदगी के दम पर रैप जोड़ी Real Dimez बन गईं। स्थानीय रैपर DWNPLY के साथ एक शुरुआती हिट ने उन्हें मशहूर किया; अब पाँच साल बाद उन्होंने दूसरी हिट की उम्मीद में Only Raw Records से करार किया है।"
+   },
+   "source": {
+    "title": "GTA Wiki: Real Dimez",
+    "url": "https://gta.fandom.com/wiki/Real_Dimez"
+   }
+  },
+  {
+   "id": "raul",
+   "name": "Raul Bautista",
+   "role": "सहायक किरदार",
+   "age": null,
+   "image": null,
+   "color": "#EF4444",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "एक आत्मविश्वासी और आकर्षक अनुभवी बैंक लुटेरा, जो हमेशा बड़े जोखिम उठाने को तैयार नए हुनर की तलाश में रहता है। Vice City में वह जेसन और लूसिया का एक तरह से गुरु बन जाता है, लेकिन उसकी लापरवाही हर डकैती में दाँव बढ़ा देती है।"
+   },
+   "source": {
+    "title": "GTA Wiki: Raul Bautista",
+    "url": "https://gta.fandom.com/wiki/Raul_Bautista"
+   }
+  },
+  {
+   "id": "brian",
+   "name": "Brian Heder",
+   "role": "सहायक किरदार",
+   "age": null,
+   "image": null,
+   "color": "#14B8A6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Keys में तस्करी के सुनहरे दौर का एक पुराना तस्कर, जो अब भी अपनी तीसरी पत्नी लोरी के साथ अपने बोटयार्ड से माल पहुँचाता है। वह जेसन को अपनी एक प्रॉपर्टी में मुफ़्त रहने देता है, बशर्ते वह स्थानीय वसूली में उसकी मदद करे।"
+   },
+   "source": {
+    "title": "GTA Wiki: Brian Heder",
+    "url": "https://gta.fandom.com/wiki/Brian_Heder"
+   }
+  }
+ ]
+}

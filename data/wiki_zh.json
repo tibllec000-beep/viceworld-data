@@ -1,0 +1,159 @@
+{
+ "updatedAt": "2026-11-09T01:58:03.517Z",
+ "hash": "124278afb227b05f",
+ "lang": "zh",
+ "license": {
+  "text": "CC BY-SA 3.0, GTA Wiki (Fandom)",
+  "url": "https://www.fandom.com/licensing"
+ },
+ "characters": [
+  {
+   "id": "jason",
+   "name": "Jason Duval",
+   "role": "主角",
+   "age": null,
+   "image": null,
+   "color": "#00A3FF",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "杰森是《Grand Theft Auto VI》的两位主角之一。他在小混混和骗子堆里长大。为了摆脱动荡的青春，他在军队待过一段时间，之后流落到 Leonida Keys，替当地毒贩干他最拿手的活。",
+    "narrative": "杰森想过轻松的日子，但事情却越来越难。他与露西亚的搭档关系是故事的核心。",
+    "extras": "杰森在 Rockstar Games 发布的两部官方预告片中都有出场。"
+   },
+   "source": {
+    "title": "GTA Wiki: Jason Duval",
+    "url": "https://gta.fandom.com/wiki/Jason_Duval"
+   }
+  },
+  {
+   "id": "lucia",
+   "name": "Lucia Caminos",
+   "role": "主角",
+   "age": null,
+   "image": null,
+   "color": "#FF2D95",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "露西亚是《Grand Theft Auto VI》的两位主角之一。她从小就跟父亲学打架，从那以后生活就不停地给她重拳。正是为家人而战，让她进了莱昂尼达的监狱。",
+    "narrative": "出狱后，露西亚决心过上更好的生活，并与杰森联手。",
+    "extras": "露西亚是 3D 时代正传 GTA 中第一位可操作的女性主角。"
+   },
+   "source": {
+    "title": "GTA Wiki: Lucia Caminos",
+    "url": "https://gta.fandom.com/wiki/Lucia_Caminos"
+   }
+  },
+  {
+   "id": "cal",
+   "name": "Cal Hampton",
+   "role": "配角",
+   "age": null,
+   "image": null,
+   "color": "#22C55E",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "杰森的朋友，也是布莱恩的伙伴。卡尔待在家里最有安全感：喝着啤酒偷听海岸警卫队的无线电，脑子里装满阴谋论。他安于底层，但杰森有更大的计划。"
+   },
+   "source": {
+    "title": "GTA Wiki: Cal Hampton",
+    "url": "https://gta.fandom.com/wiki/Cal_Hampton"
+   }
+  },
+  {
+   "id": "boobie",
+   "name": "Boobie Ike",
+   "role": "配角",
+   "age": null,
+   "image": null,
+   "color": "#FACC15",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Vice City 的街头传奇，把过去变成了一个合法帝国：房地产、一家脱衣舞俱乐部和一间录音棚。谈生意之前他总是笑脸相迎。他最大的赌注是与德奎恩一起经营的唱片公司 Only Raw Records。"
+   },
+   "source": {
+    "title": "GTA Wiki: Boobie Ike",
+    "url": "https://gta.fandom.com/wiki/Boobie_Ike"
+   }
+  },
+  {
+   "id": "drequan",
+   "name": "Dre'Quan Priest",
+   "role": "配角",
+   "age": null,
+   "image": null,
+   "color": "#8B5CF6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "德奎恩与其说是黑帮，不如说是个钻营者。他曾在街头贩卖维生，但目标始终是在音乐圈出头。他与布比一起经营 Only Raw Records，刚签下二人组 Real Dimez，瞄准 Vice City 的音乐圈。"
+   },
+   "source": {
+    "title": "GTA Wiki: Dre'Quan Priest",
+    "url": "https://gta.fandom.com/wiki/Dre'Quan_Priest"
+   }
+  },
+  {
+   "id": "realdimez",
+   "name": "Real Dimez",
+   "role": "说唱二人组",
+   "age": null,
+   "image": null,
+   "color": "#F97316",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "贝-拉克丝和罗克茜是高中时代的好友，凭借爆红单曲和不间断的社交媒体曝光成为说唱二人组 Real Dimez。早年与本地说唱歌手 DWNPLY 合作的热门单曲让她们成名；五年后，她们签约 Only Raw Records，希望再创佳绩。"
+   },
+   "source": {
+    "title": "GTA Wiki: Real Dimez",
+    "url": "https://gta.fandom.com/wiki/Real_Dimez"
+   }
+  },
+  {
+   "id": "raul",
+   "name": "Raul Bautista",
+   "role": "配角",
+   "age": null,
+   "image": null,
+   "color": "#EF4444",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "一位自信又有魅力的资深银行劫匪，总在寻找敢冒大风险的新人。他在 Vice City 成了杰森和露西亚的半个导师，但他的鲁莽让每一次行动的风险都越来越高。"
+   },
+   "source": {
+    "title": "GTA Wiki: Raul Bautista",
+    "url": "https://gta.fandom.com/wiki/Raul_Bautista"
+   }
+  },
+  {
+   "id": "brian",
+   "name": "Brian Heder",
+   "role": "配角",
+   "age": null,
+   "image": null,
+   "color": "#14B8A6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "一位老派走私犯，经历过 Keys 走私的黄金年代，至今仍和第三任妻子洛莉通过自家船厂出货。只要杰森帮他处理当地的敲诈勒索，他就让杰森免费住在自己的一处房产里。"
+   },
+   "source": {
+    "title": "GTA Wiki: Brian Heder",
+    "url": "https://gta.fandom.com/wiki/Brian_Heder"
+   }
+  }
+ ]
+}

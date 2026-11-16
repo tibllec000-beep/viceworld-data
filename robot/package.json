@@ -1,0 +1,14 @@
+{
+  "name": "vice-guide-robot",
+  "private": true,
+  "type": "module",
+  "description": "Atualiza o catálogo de vídeos e a wiki do Vice Guide.",
+  "scripts": {
+    "update": "node update.mjs",
+    "wiki": "node update.mjs --wiki"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.6.0"
+  }
+}

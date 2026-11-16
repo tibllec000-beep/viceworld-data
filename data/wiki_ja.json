@@ -1,0 +1,159 @@
+{
+ "updatedAt": "2026-11-09T01:58:03.508Z",
+ "hash": "dceeba26cc0774c9",
+ "lang": "ja",
+ "license": {
+  "text": "CC BY-SA 3.0, GTA Wiki (Fandom)",
+  "url": "https://www.fandom.com/licensing"
+ },
+ "characters": [
+  {
+   "id": "jason",
+   "name": "Jason Duval",
+   "role": "主人公",
+   "age": null,
+   "image": null,
+   "color": "#00A3FF",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "ジェイソンは『Grand Theft Auto VI』の2人の主人公の1人。小悪党や詐欺師に囲まれて育った。荒れた青春から抜け出そうと軍に入ったのち、Leonida Keysに流れ着き、地元の麻薬密売人のもとで得意な仕事をこなしている。",
+    "narrative": "ジェイソンは楽な暮らしを望んでいるが、状況は厳しくなる一方。ルシアとの相棒関係が物語の中心となる。",
+    "extras": "ジェイソンはRockstar Gamesが公開した2本の公式トレーラーの両方に登場している。"
+   },
+   "source": {
+    "title": "GTA Wiki: Jason Duval",
+    "url": "https://gta.fandom.com/wiki/Jason_Duval"
+   }
+  },
+  {
+   "id": "lucia",
+   "name": "Lucia Caminos",
+   "role": "主人公",
+   "age": null,
+   "image": null,
+   "color": "#FF2D95",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "ルシアは『Grand Theft Auto VI』の2人の主人公の1人。幼い頃から父親に戦い方を教わり、それ以来、人生に打ちのめされ続けてきた。家族のために戦ったことで、レオニダの刑務所に入ることになった。",
+    "narrative": "出所したルシアは、より良い人生を築こうと決意し、ジェイソンと手を組む。",
+    "extras": "ルシアは3D時代のメインシリーズGTAで初めて操作可能な女性主人公である。"
+   },
+   "source": {
+    "title": "GTA Wiki: Lucia Caminos",
+    "url": "https://gta.fandom.com/wiki/Lucia_Caminos"
+   }
+  },
+  {
+   "id": "cal",
+   "name": "Cal Hampton",
+   "role": "サブキャラクター",
+   "age": null,
+   "image": null,
+   "color": "#22C55E",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "ジェイソンの友人で、ブライアンの仲間。ビールを片手に沿岸警備隊の無線を盗み聞きし、陰謀論で頭をいっぱいにしながら家にこもっているのが一番落ち着く。底辺の暮らしに満足しているが、ジェイソンにはもっと大きな計画がある。"
+   },
+   "source": {
+    "title": "GTA Wiki: Cal Hampton",
+    "url": "https://gta.fandom.com/wiki/Cal_Hampton"
+   }
+  },
+  {
+   "id": "boobie",
+   "name": "Boobie Ike",
+   "role": "サブキャラクター",
+   "age": null,
+   "image": null,
+   "color": "#FACC15",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "過去を合法的な帝国に変えたVice Cityのストリートの伝説。不動産、ストリップクラブ、レコーディングスタジオを持つ。商談になるまではずっと笑顔。最大の賭けは、ドレクワンと運営するレーベル「Only Raw Records」だ。"
+   },
+   "source": {
+    "title": "GTA Wiki: Boobie Ike",
+    "url": "https://gta.fandom.com/wiki/Boobie_Ike"
+   }
+  },
+  {
+   "id": "drequan",
+   "name": "Dre'Quan Priest",
+   "role": "サブキャラクター",
+   "age": null,
+   "image": null,
+   "color": "#8B5CF6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "ギャングというよりは根っからのハスラー。生きるために路上で売人をしていたが、目標はずっと音楽で成功することだった。ブービーと「Only Raw Records」を運営し、Vice Cityのシーンを狙ってデュオ「Real Dimez」と契約したばかり。"
+   },
+   "source": {
+    "title": "GTA Wiki: Dre'Quan Priest",
+    "url": "https://gta.fandom.com/wiki/Dre'Quan_Priest"
+   }
+  },
+  {
+   "id": "realdimez",
+   "name": "Real Dimez",
+   "role": "ラップデュオ",
+   "age": null,
+   "image": null,
+   "color": "#F97316",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "高校時代からの友人ベイ・ラックスとロキシーは、バズった曲と途切れないSNS発信でラップデュオ「Real Dimez」になった。地元ラッパーDWNPLYとの初期のヒットで有名になり、5年後の今、再びヒットを狙って「Only Raw Records」と契約した。"
+   },
+   "source": {
+    "title": "GTA Wiki: Real Dimez",
+    "url": "https://gta.fandom.com/wiki/Real_Dimez"
+   }
+  },
+  {
+   "id": "raul",
+   "name": "Raul Bautista",
+   "role": "サブキャラクター",
+   "age": null,
+   "image": null,
+   "color": "#EF4444",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "自信に満ちた魅力的なベテラン銀行強盗。大きなリスクを取れる新しい人材を常に探している。Vice Cityでジェイソンとルシアの師匠のような存在になるが、その無謀さが強盗のたびに危険を大きくしていく。"
+   },
+   "source": {
+    "title": "GTA Wiki: Raul Bautista",
+    "url": "https://gta.fandom.com/wiki/Raul_Bautista"
+   }
+  },
+  {
+   "id": "brian",
+   "name": "Brian Heder",
+   "role": "サブキャラクター",
+   "age": null,
+   "image": null,
+   "color": "#14B8A6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Keysの密輸黄金時代を知る昔気質の運び屋。今も3人目の妻ローリと一緒に、自分のボートヤードを通じてブツを流している。地元のゆすりを手伝う限り、ジェイソンを自分の物件に家賃なしで住まわせている。"
+   },
+   "source": {
+    "title": "GTA Wiki: Brian Heder",
+    "url": "https://gta.fandom.com/wiki/Brian_Heder"
+   }
+  }
+ ]
+}

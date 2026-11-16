@@ -1,0 +1,159 @@
+{
+ "updatedAt": "2026-11-09T01:58:03.481Z",
+ "hash": "b5a2e7daa18e459f",
+ "lang": "es",
+ "license": {
+  "text": "CC BY-SA 3.0, GTA Wiki (Fandom)",
+  "url": "https://www.fandom.com/licensing"
+ },
+ "characters": [
+  {
+   "id": "jason",
+   "name": "Jason Duval",
+   "role": "Protagonista",
+   "age": null,
+   "image": null,
+   "color": "#00A3FF",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Jason es uno de los dos protagonistas de Grand Theft Auto VI. Creció rodeado de delincuentes de poca monta y estafadores. Tras pasar por el Ejército intentando dejar atrás una juventud problemática, terminó en los Leonida Keys, haciendo lo que mejor sabe hacer para narcotraficantes locales.",
+    "narrative": "Jason quiere una vida tranquila, pero todo se complica cada vez más. Su alianza con Lucia es el centro de la historia.",
+    "extras": "Jason aparece en los dos tráilers oficiales publicados por Rockstar Games."
+   },
+   "source": {
+    "title": "GTA Wiki: Jason Duval",
+    "url": "https://gta.fandom.com/wiki/Jason_Duval"
+   }
+  },
+  {
+   "id": "lucia",
+   "name": "Lucia Caminos",
+   "role": "Protagonista",
+   "age": null,
+   "image": null,
+   "color": "#FF2D95",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Lucia es una de los dos protagonistas de Grand Theft Auto VI. Su padre le enseñó a pelear desde muy pequeña, y la vida no ha dejado de golpearla desde entonces. Luchar por su familia fue lo que la llevó a una prisión de Leonida.",
+    "narrative": "Al salir, Lucia está decidida a construir una vida mejor, y se une a Jason.",
+    "extras": "Lucia es la primera protagonista femenina jugable de un GTA principal de la era 3D."
+   },
+   "source": {
+    "title": "GTA Wiki: Lucia Caminos",
+    "url": "https://gta.fandom.com/wiki/Lucia_Caminos"
+   }
+  },
+  {
+   "id": "cal",
+   "name": "Cal Hampton",
+   "role": "Secundario",
+   "age": null,
+   "image": null,
+   "color": "#22C55E",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Amigo de Jason y socio de Brian. Cal se siente más seguro en casa, escuchando la radio de la Guardia Costera con unas cervezas y la cabeza llena de teorías conspirativas. Es feliz en lo más bajo, pero Jason tiene planes más grandes."
+   },
+   "source": {
+    "title": "GTA Wiki: Cal Hampton",
+    "url": "https://gta.fandom.com/wiki/Cal_Hampton"
+   }
+  },
+  {
+   "id": "boobie",
+   "name": "Boobie Ike",
+   "role": "Secundario",
+   "age": null,
+   "image": null,
+   "color": "#FACC15",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Una leyenda callejera de Vice City que convirtió su pasado en un imperio legal: inmuebles, un club de striptease y un estudio de grabación. Todo sonrisas hasta que toca hablar de negocios. Su gran apuesta es Only Raw Records, el sello que dirige con Dre'Quan."
+   },
+   "source": {
+    "title": "GTA Wiki: Boobie Ike",
+    "url": "https://gta.fandom.com/wiki/Boobie_Ike"
+   }
+  },
+  {
+   "id": "drequan",
+   "name": "Dre'Quan Priest",
+   "role": "Secundario",
+   "age": null,
+   "image": null,
+   "color": "#8B5CF6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Siempre más buscavidas que gánster, Dre'Quan vendió en la calle para salir adelante, pero su meta siempre fue la música. Dirige Only Raw Records con Boobie y acaba de fichar al dúo Real Dimez, con la mira puesta en la escena de Vice City."
+   },
+   "source": {
+    "title": "GTA Wiki: Dre'Quan Priest",
+    "url": "https://gta.fandom.com/wiki/Dre'Quan_Priest"
+   }
+  },
+  {
+   "id": "realdimez",
+   "name": "Real Dimez",
+   "role": "Dúo de rap",
+   "age": null,
+   "image": null,
+   "color": "#F97316",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Bae-Luxe y Roxy, amigas desde la secundaria, se convirtieron en el dúo de rap Real Dimez gracias a temas virales y una presencia incansable en redes sociales. Un éxito temprano con el rapero local DWNPLY las hizo famosas; ahora, cinco años después, firmaron con Only Raw Records esperando repetir."
+   },
+   "source": {
+    "title": "GTA Wiki: Real Dimez",
+    "url": "https://gta.fandom.com/wiki/Real_Dimez"
+   }
+  },
+  {
+   "id": "raul",
+   "name": "Raul Bautista",
+   "role": "Secundario",
+   "age": null,
+   "image": null,
+   "color": "#EF4444",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Un veterano ladrón de bancos, seguro y encantador, siempre buscando nuevos talentos dispuestos a correr grandes riesgos. Se convierte en una especie de mentor de Jason y Lucia en Vice City, pero su imprudencia sube la apuesta en cada golpe."
+   },
+   "source": {
+    "title": "GTA Wiki: Raul Bautista",
+    "url": "https://gta.fandom.com/wiki/Raul_Bautista"
+   }
+  },
+  {
+   "id": "brian",
+   "name": "Brian Heder",
+   "role": "Secundario",
+   "age": null,
+   "image": null,
+   "color": "#14B8A6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Un contrabandista de la vieja escuela, de la época dorada del narcotráfico en los Keys, que todavía mueve mercancía a través de su astillero con su tercera esposa, Lori. Deja que Jason viva gratis en una de sus propiedades mientras lo ayude con las extorsiones locales."
+   },
+   "source": {
+    "title": "GTA Wiki: Brian Heder",
+    "url": "https://gta.fandom.com/wiki/Brian_Heder"
+   }
+  }
+ ]
+}

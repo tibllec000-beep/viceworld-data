@@ -1,0 +1,159 @@
+{
+ "updatedAt": "2026-11-09T01:58:03.520Z",
+ "hash": "3553f7cc274cc8cc",
+ "lang": "id",
+ "license": {
+  "text": "CC BY-SA 3.0, GTA Wiki (Fandom)",
+  "url": "https://www.fandom.com/licensing"
+ },
+ "characters": [
+  {
+   "id": "jason",
+   "name": "Jason Duval",
+   "role": "Protagonis",
+   "age": null,
+   "image": null,
+   "color": "#00A3FF",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Jason adalah salah satu dari dua protagonis Grand Theft Auto VI. Ia tumbuh di tengah penjahat kelas teri dan penipu. Setelah sempat masuk Angkatan Darat untuk meninggalkan masa muda yang bermasalah, ia berakhir di Leonida Keys, mengerjakan apa yang paling ia kuasai untuk para penyelundup narkoba setempat.",
+    "narrative": "Jason ingin hidup tenang, tetapi keadaan terus makin sulit. Kerja samanya dengan Lucia menjadi inti cerita.",
+    "extras": "Jason muncul di kedua trailer resmi yang dirilis Rockstar Games."
+   },
+   "source": {
+    "title": "GTA Wiki: Jason Duval",
+    "url": "https://gta.fandom.com/wiki/Jason_Duval"
+   }
+  },
+  {
+   "id": "lucia",
+   "name": "Lucia Caminos",
+   "role": "Protagonis",
+   "age": null,
+   "image": null,
+   "color": "#FF2D95",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Lucia adalah salah satu dari dua protagonis Grand Theft Auto VI. Ayahnya mengajarinya bertarung sejak kecil, dan sejak itu hidup terus menghantamnya. Berjuang demi keluarganya membuatnya masuk penjara di Leonida.",
+    "narrative": "Setelah bebas, Lucia bertekad membangun hidup yang lebih baik dan bekerja sama dengan Jason.",
+    "extras": "Lucia adalah protagonis perempuan pertama yang bisa dimainkan dalam GTA utama era 3D."
+   },
+   "source": {
+    "title": "GTA Wiki: Lucia Caminos",
+    "url": "https://gta.fandom.com/wiki/Lucia_Caminos"
+   }
+  },
+  {
+   "id": "cal",
+   "name": "Cal Hampton",
+   "role": "Karakter pendukung",
+   "age": null,
+   "image": null,
+   "color": "#22C55E",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Teman Jason dan rekan Brian. Cal merasa paling aman di rumah, menguping radio Penjaga Pantai sambil minum bir dengan kepala penuh teori konspirasi. Ia senang hidup di bawah, tetapi Jason punya rencana yang lebih besar."
+   },
+   "source": {
+    "title": "GTA Wiki: Cal Hampton",
+    "url": "https://gta.fandom.com/wiki/Cal_Hampton"
+   }
+  },
+  {
+   "id": "boobie",
+   "name": "Boobie Ike",
+   "role": "Karakter pendukung",
+   "age": null,
+   "image": null,
+   "color": "#FACC15",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Legenda jalanan Vice City yang mengubah masa lalunya menjadi kerajaan bisnis legal: properti, klub striptis, dan studio rekaman. Selalu tersenyum sampai tiba waktunya bicara bisnis. Taruhan terbesarnya adalah Only Raw Records, label yang ia jalankan bersama Dre'Quan."
+   },
+   "source": {
+    "title": "GTA Wiki: Boobie Ike",
+    "url": "https://gta.fandom.com/wiki/Boobie_Ike"
+   }
+  },
+  {
+   "id": "drequan",
+   "name": "Dre'Quan Priest",
+   "role": "Karakter pendukung",
+   "age": null,
+   "image": null,
+   "color": "#8B5CF6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Selalu lebih cocok disebut pencari peluang daripada gangster, Dre'Quan berjualan di jalan untuk bertahan hidup, tetapi tujuannya selalu musik. Ia menjalankan Only Raw Records bersama Boobie dan baru saja mengontrak duo Real Dimez, dengan mata tertuju pada skena Vice City."
+   },
+   "source": {
+    "title": "GTA Wiki: Dre'Quan Priest",
+    "url": "https://gta.fandom.com/wiki/Dre'Quan_Priest"
+   }
+  },
+  {
+   "id": "realdimez",
+   "name": "Real Dimez",
+   "role": "Duo rap",
+   "age": null,
+   "image": null,
+   "color": "#F97316",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Bae-Luxe dan Roxy, bersahabat sejak SMA, menjadi duo rap Real Dimez berkat lagu-lagu viral dan kehadiran tanpa henti di media sosial. Lagu hit awal bersama rapper lokal DWNPLY membuat mereka terkenal; kini, lima tahun kemudian, mereka menandatangani kontrak dengan Only Raw Records demi hit berikutnya."
+   },
+   "source": {
+    "title": "GTA Wiki: Real Dimez",
+    "url": "https://gta.fandom.com/wiki/Real_Dimez"
+   }
+  },
+  {
+   "id": "raul",
+   "name": "Raul Bautista",
+   "role": "Karakter pendukung",
+   "age": null,
+   "image": null,
+   "color": "#EF4444",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Perampok bank veteran yang percaya diri dan memikat, selalu mencari bakat baru yang berani mengambil risiko besar. Ia menjadi semacam mentor bagi Jason dan Lucia di Vice City, tetapi kecerobohannya membuat taruhan makin tinggi di setiap perampokan."
+   },
+   "source": {
+    "title": "GTA Wiki: Raul Bautista",
+    "url": "https://gta.fandom.com/wiki/Raul_Bautista"
+   }
+  },
+  {
+   "id": "brian",
+   "name": "Brian Heder",
+   "role": "Karakter pendukung",
+   "age": null,
+   "image": null,
+   "color": "#14B8A6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Penyelundup narkoba kawakan dari masa keemasan penyelundupan di Keys, yang masih memindahkan barang lewat galangan kapalnya bersama istri ketiganya, Lori. Ia membiarkan Jason tinggal gratis di salah satu propertinya asalkan membantu urusan pemerasan setempat."
+   },
+   "source": {
+    "title": "GTA Wiki: Brian Heder",
+    "url": "https://gta.fandom.com/wiki/Brian_Heder"
+   }
+  }
+ ]
+}

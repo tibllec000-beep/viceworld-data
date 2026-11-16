@@ -1,0 +1,159 @@
+{
+ "updatedAt": "2026-11-09T01:58:03.511Z",
+ "hash": "9fcdb510d8b19df5",
+ "lang": "ko",
+ "license": {
+  "text": "CC BY-SA 3.0, GTA Wiki (Fandom)",
+  "url": "https://www.fandom.com/licensing"
+ },
+ "characters": [
+  {
+   "id": "jason",
+   "name": "Jason Duval",
+   "role": "주인공",
+   "age": null,
+   "image": null,
+   "color": "#00A3FF",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "제이슨은 『Grand Theft Auto VI』의 두 주인공 중 한 명이다. 좀도둑과 사기꾼들 사이에서 자랐다. 문제 많던 젊은 시절을 뒤로하려고 군대에 다녀온 뒤, Leonida Keys로 흘러들어 현지 마약 운반책들 밑에서 자신이 가장 잘하는 일을 하고 있다.",
+    "narrative": "제이슨은 편한 삶을 원하지만 상황은 점점 더 어려워진다. 루시아와의 파트너십이 이야기의 중심이다.",
+    "extras": "제이슨은 Rockstar Games가 공개한 공식 트레일러 두 편에 모두 등장한다."
+   },
+   "source": {
+    "title": "GTA Wiki: Jason Duval",
+    "url": "https://gta.fandom.com/wiki/Jason_Duval"
+   }
+  },
+  {
+   "id": "lucia",
+   "name": "Lucia Caminos",
+   "role": "주인공",
+   "age": null,
+   "image": null,
+   "color": "#FF2D95",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "루시아는 『Grand Theft Auto VI』의 두 주인공 중 한 명이다. 아버지에게 아주 어릴 때부터 싸우는 법을 배웠고, 그 뒤로 인생은 그녀에게 계속 주먹을 날려 왔다. 가족을 위해 싸운 일로 레오니다의 교도소에 들어가게 되었다.",
+    "narrative": "출소한 루시아는 더 나은 삶을 만들기로 결심하고 제이슨과 손을 잡는다.",
+    "extras": "루시아는 3D 시대 메인 GTA 시리즈 최초의 플레이 가능한 여성 주인공이다."
+   },
+   "source": {
+    "title": "GTA Wiki: Lucia Caminos",
+    "url": "https://gta.fandom.com/wiki/Lucia_Caminos"
+   }
+  },
+  {
+   "id": "cal",
+   "name": "Cal Hampton",
+   "role": "조연",
+   "age": null,
+   "image": null,
+   "color": "#22C55E",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "제이슨의 친구이자 브라이언의 동료. 맥주 몇 캔과 음모론으로 가득한 머리로 해안경비대 무전을 엿들으며 집에 있을 때 가장 안전하다고 느낀다. 밑바닥 삶에 만족하지만 제이슨에게는 더 큰 계획이 있다."
+   },
+   "source": {
+    "title": "GTA Wiki: Cal Hampton",
+    "url": "https://gta.fandom.com/wiki/Cal_Hampton"
+   }
+  },
+  {
+   "id": "boobie",
+   "name": "Boobie Ike",
+   "role": "조연",
+   "age": null,
+   "image": null,
+   "color": "#FACC15",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "과거를 합법적인 제국으로 바꾼 Vice City의 거리 전설. 부동산, 스트립 클럽, 녹음 스튜디오를 가지고 있다. 사업 얘기가 나오기 전까지는 늘 웃는 얼굴이다. 가장 큰 승부수는 드레콴과 함께 운영하는 레이블 Only Raw Records다."
+   },
+   "source": {
+    "title": "GTA Wiki: Boobie Ike",
+    "url": "https://gta.fandom.com/wiki/Boobie_Ike"
+   }
+  },
+  {
+   "id": "drequan",
+   "name": "Dre'Quan Priest",
+   "role": "조연",
+   "age": null,
+   "image": null,
+   "color": "#8B5CF6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "갱스터라기보다는 언제나 허슬러였던 드레콴은 먹고살기 위해 거리에서 마약을 팔았지만, 목표는 늘 음악으로 성공하는 것이었다. 부비와 함께 Only Raw Records를 운영하며, Vice City 씬을 노리고 듀오 Real Dimez와 막 계약했다."
+   },
+   "source": {
+    "title": "GTA Wiki: Dre'Quan Priest",
+    "url": "https://gta.fandom.com/wiki/Dre'Quan_Priest"
+   }
+  },
+  {
+   "id": "realdimez",
+   "name": "Real Dimez",
+   "role": "랩 듀오",
+   "age": null,
+   "image": null,
+   "color": "#F97316",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "고등학교 때부터 친구인 베이-럭스와 록시는 바이럴 곡과 쉼 없는 SNS 활동으로 랩 듀오 Real Dimez가 되었다. 지역 래퍼 DWNPLY와 함께한 초기 히트곡으로 유명해졌고, 5년이 지난 지금 다시 한번 히트를 노리며 Only Raw Records와 계약했다."
+   },
+   "source": {
+    "title": "GTA Wiki: Real Dimez",
+    "url": "https://gta.fandom.com/wiki/Real_Dimez"
+   }
+  },
+  {
+   "id": "raul",
+   "name": "Raul Bautista",
+   "role": "조연",
+   "age": null,
+   "image": null,
+   "color": "#EF4444",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "자신감 넘치고 매력적인 베테랑 은행 강도로, 큰 위험을 감수할 새로운 인재를 늘 찾고 있다. Vice City에서 제이슨과 루시아의 멘토 같은 존재가 되지만, 그의 무모함은 작전마다 판돈을 키운다."
+   },
+   "source": {
+    "title": "GTA Wiki: Raul Bautista",
+    "url": "https://gta.fandom.com/wiki/Raul_Bautista"
+   }
+  },
+  {
+   "id": "brian",
+   "name": "Brian Heder",
+   "role": "조연",
+   "age": null,
+   "image": null,
+   "color": "#14B8A6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Keys 밀수의 황금기를 겪은 구식 마약 밀수꾼으로, 지금도 세 번째 아내 로리와 함께 자기 보트 야드를 통해 물건을 옮긴다. 제이슨이 지역 갈취 일을 돕는 조건으로 자신의 집 한 채에 공짜로 살게 해 준다."
+   },
+   "source": {
+    "title": "GTA Wiki: Brian Heder",
+    "url": "https://gta.fandom.com/wiki/Brian_Heder"
+   }
+  }
+ ]
+}

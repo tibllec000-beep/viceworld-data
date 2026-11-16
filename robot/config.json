@@ -1,0 +1,127 @@
+{
+  "langs": ["en", "pt", "es", "fr", "it", "de", "ru", "pl", "tr", "ar", "hi", "ja", "ko", "zh", "id"],
+  "youtubeLang": {
+    "en": "en", "pt": "pt", "es": "es", "fr": "fr", "it": "it", "de": "de", "ru": "ru", "pl": "pl",
+    "tr": "tr", "ar": "ar", "hi": "hi", "ja": "ja", "ko": "ko", "zh": "zh-Hans", "id": "id"
+  },
+  "maxPerCategory": 150,
+  "minSeconds": 45,
+  "maxSearchesPerRun": 30,
+  "queries": {
+    "en": {
+      "curiosity": ["GTA 6 facts details", "GTA 6 things you missed"],
+      "easter_egg": ["GTA 6 easter eggs secrets"],
+      "tutorial": ["GTA 6 guide tips"]
+    },
+    "pt": {
+      "curiosity": ["GTA 6 curiosidades", "GTA 6 detalhes que você não viu"],
+      "easter_egg": ["GTA 6 easter eggs segredos"],
+      "tutorial": ["GTA 6 dicas guia"]
+    },
+    "es": {
+      "curiosity": ["GTA 6 curiosidades", "GTA 6 detalles que no viste"],
+      "easter_egg": ["GTA 6 easter eggs secretos"],
+      "tutorial": ["GTA 6 guía trucos"]
+    },
+    "fr": {
+      "curiosity": ["GTA 6 anecdotes", "GTA 6 détails cachés"],
+      "easter_egg": ["GTA 6 easter eggs secrets"],
+      "tutorial": ["GTA 6 guide astuces"]
+    },
+    "it": {
+      "curiosity": ["GTA 6 curiosità", "GTA 6 dettagli nascosti"],
+      "easter_egg": ["GTA 6 easter egg segreti"],
+      "tutorial": ["GTA 6 guida trucchi"]
+    },
+    "de": {
+      "curiosity": ["GTA 6 Fakten Details", "GTA 6 Dinge die du verpasst hast"],
+      "easter_egg": ["GTA 6 Easter Eggs Geheimnisse"],
+      "tutorial": ["GTA 6 Guide Tipps"]
+    },
+    "ru": {
+      "curiosity": ["GTA 6 факты детали", "GTA 6 что вы не заметили"],
+      "easter_egg": ["GTA 6 пасхалки секреты"],
+      "tutorial": ["GTA 6 гайд советы"]
+    },
+    "pl": {
+      "curiosity": ["GTA 6 ciekawostki", "GTA 6 szczegóły"],
+      "easter_egg": ["GTA 6 easter eggi sekrety"],
+      "tutorial": ["GTA 6 poradnik"]
+    },
+    "tr": {
+      "curiosity": ["GTA 6 ilginç bilgiler", "GTA 6 detaylar"],
+      "easter_egg": ["GTA 6 easter egg sırlar"],
+      "tutorial": ["GTA 6 rehber taktikler"]
+    },
+    "ar": {
+      "curiosity": ["GTA 6 معلومات وتفاصيل", "GTA 6 أشياء لم تلاحظها"],
+      "easter_egg": ["GTA 6 أسرار"],
+      "tutorial": ["GTA 6 شرح نصائح"]
+    },
+    "hi": {
+      "curiosity": ["GTA 6 रोचक तथ्य", "GTA 6 details hindi"],
+      "easter_egg": ["GTA 6 easter eggs hindi"],
+      "tutorial": ["GTA 6 tips hindi"]
+    },
+    "ja": {
+      "curiosity": ["GTA6 小ネタ", "GTA6 細かすぎる"],
+      "easter_egg": ["GTA6 隠し要素"],
+      "tutorial": ["GTA6 攻略"]
+    },
+    "ko": {
+      "curiosity": ["GTA6 디테일", "GTA6 몰랐던 사실"],
+      "easter_egg": ["GTA6 이스터에그"],
+      "tutorial": ["GTA6 공략 팁"]
+    },
+    "zh": {
+      "curiosity": ["GTA 6 冷知识", "GTA 6 细节"],
+      "easter_egg": ["GTA 6 彩蛋"],
+      "tutorial": ["GTA 6 攻略"]
+    },
+    "id": {
+      "curiosity": ["GTA 6 fakta unik", "GTA 6 detail tersembunyi"],
+      "easter_egg": ["GTA 6 easter egg rahasia"],
+      "tutorial": ["GTA 6 tips panduan"]
+    }
+  },
+  "roleNames": {
+    "protagonist": {
+      "en": "Protagonist", "pt": "Protagonista", "es": "Protagonista", "fr": "Protagoniste", "it": "Protagonista",
+      "de": "Protagonist", "ru": "Главный герой", "pl": "Protagonista", "tr": "Ana karakter", "ar": "شخصية رئيسية",
+      "hi": "मुख्य किरदार", "ja": "主人公", "ko": "주인공", "zh": "主角", "id": "Protagonis"
+    },
+    "supporting": {
+      "en": "Supporting character", "pt": "Coadjuvante", "es": "Secundario", "fr": "Personnage secondaire", "it": "Personaggio secondario",
+      "de": "Nebenfigur", "ru": "Второстепенный персонаж", "pl": "Postać drugoplanowa", "tr": "Yan karakter", "ar": "شخصية ثانوية",
+      "hi": "सहायक किरदार", "ja": "サブキャラクター", "ko": "조연", "zh": "配角", "id": "Karakter pendukung"
+    },
+    "duo": {
+      "en": "Rap duo", "pt": "Dupla de rap", "es": "Dúo de rap", "fr": "Duo de rap", "it": "Duo rap",
+      "de": "Rap-Duo", "ru": "Рэп-дуэт", "pl": "Duet rapowy", "tr": "Rap ikilisi", "ar": "ثنائي راب",
+      "hi": "रैप जोड़ी", "ja": "ラップデュオ", "ko": "랩 듀오", "zh": "说唱二人组", "id": "Duo rap"
+    }
+  },
+  "wiki": {
+    "api": "https://gta.fandom.com/api.php",
+    "pageUrl": "https://gta.fandom.com/wiki/",
+    "licenseText": "CC BY-SA 3.0, GTA Wiki (Fandom)",
+    "licenseUrl": "https://www.fandom.com/licensing",
+    "maxSectionChars": 6000,
+    "sectionMap": {
+      "story": ["History", "Background", "Biography", "Events of Grand Theft Auto VI"],
+      "narrative": ["Personality", "Relationships", "Appearance", "Character"],
+      "missions": ["Mission Appearances", "Mission appearances", "Missions"],
+      "extras": ["Trivia", "Influence", "Abilities", "Skills"]
+    }
+  },
+  "characters": [
+    { "id": "jason", "page": "Jason Duval", "color": "#00A3FF", "spoilers": ["missions"], "role": "protagonist" },
+    { "id": "lucia", "page": "Lucia Caminos", "color": "#FF2D95", "spoilers": ["missions"], "role": "protagonist" },
+    { "id": "cal", "page": "Cal Hampton", "color": "#22C55E", "spoilers": ["missions"], "role": "supporting" },
+    { "id": "boobie", "page": "Boobie Ike", "color": "#FACC15", "spoilers": ["missions"], "role": "supporting" },
+    { "id": "drequan", "page": "Dre'Quan Priest", "color": "#8B5CF6", "spoilers": ["missions"], "role": "supporting" },
+    { "id": "realdimez", "page": "Real Dimez", "color": "#F97316", "spoilers": ["missions"], "role": "duo" },
+    { "id": "raul", "page": "Raul Bautista", "color": "#EF4444", "spoilers": ["missions"], "role": "supporting" },
+    { "id": "brian", "page": "Brian Heder", "color": "#14B8A6", "spoilers": ["missions"], "role": "supporting" }
+  ]
+}

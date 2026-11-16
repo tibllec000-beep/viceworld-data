@@ -1,0 +1,159 @@
+{
+ "updatedAt": "2026-11-09T01:58:03.494Z",
+ "hash": "8994b8fec3178eb7",
+ "lang": "ru",
+ "license": {
+  "text": "CC BY-SA 3.0, GTA Wiki (Fandom)",
+  "url": "https://www.fandom.com/licensing"
+ },
+ "characters": [
+  {
+   "id": "jason",
+   "name": "Jason Duval",
+   "role": "Главный герой",
+   "age": null,
+   "image": null,
+   "color": "#00A3FF",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Джейсон — один из двух главных героев Grand Theft Auto VI. Он вырос среди мелких жуликов и мошенников. Отслужив в армии, чтобы оставить трудную юность позади, он оказался на Leonida Keys, где делает то, что умеет лучше всего, для местных наркоторговцев.",
+    "narrative": "Джейсон хочет спокойной жизни, но всё становится только сложнее. В центре истории — его союз с Лусией.",
+    "extras": "Джейсон появляется в обоих официальных трейлерах Rockstar Games."
+   },
+   "source": {
+    "title": "GTA Wiki: Jason Duval",
+    "url": "https://gta.fandom.com/wiki/Jason_Duval"
+   }
+  },
+  {
+   "id": "lucia",
+   "name": "Lucia Caminos",
+   "role": "Главный герой",
+   "age": null,
+   "image": null,
+   "color": "#FF2D95",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Лусия — одна из двух главных героев Grand Theft Auto VI. Отец с самого детства учил её драться, и с тех пор жизнь не перестаёт наносить ей удары. За то, что она боролась за свою семью, её посадили в тюрьму Леониды.",
+    "narrative": "Выйдя на свободу, Лусия полна решимости построить лучшую жизнь и объединяется с Джейсоном.",
+    "extras": "Лусия — первая играбельная главная героиня в основной части GTA трёхмерной эпохи."
+   },
+   "source": {
+    "title": "GTA Wiki: Lucia Caminos",
+    "url": "https://gta.fandom.com/wiki/Lucia_Caminos"
+   }
+  },
+  {
+   "id": "cal",
+   "name": "Cal Hampton",
+   "role": "Второстепенный персонаж",
+   "age": null,
+   "image": null,
+   "color": "#22C55E",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Друг Джейсона и партнёр Брайана. Кэл чувствует себя в безопасности только дома, слушая рацию береговой охраны с парой банок пива и головой, полной теорий заговора. Ему хорошо на самом дне, но у Джейсона планы покрупнее."
+   },
+   "source": {
+    "title": "GTA Wiki: Cal Hampton",
+    "url": "https://gta.fandom.com/wiki/Cal_Hampton"
+   }
+  },
+  {
+   "id": "boobie",
+   "name": "Boobie Ike",
+   "role": "Второстепенный персонаж",
+   "age": null,
+   "image": null,
+   "color": "#FACC15",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Уличная легенда Vice City, превратившая своё прошлое в легальную империю: недвижимость, стрип-клуб и студия звукозаписи. Сплошные улыбки, пока не дойдёт до дела. Его главная ставка — лейбл Only Raw Records, которым он руководит вместе с Дрекуаном."
+   },
+   "source": {
+    "title": "GTA Wiki: Boobie Ike",
+    "url": "https://gta.fandom.com/wiki/Boobie_Ike"
+   }
+  },
+  {
+   "id": "drequan",
+   "name": "Dre'Quan Priest",
+   "role": "Второстепенный персонаж",
+   "age": null,
+   "image": null,
+   "color": "#8B5CF6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Скорее делец, чем гангстер, Дрекуан торговал на улицах, чтобы свести концы с концами, но его целью всегда была музыка. Он руководит Only Raw Records вместе с Буби и только что подписал дуэт Real Dimez, нацелившись на сцену Vice City."
+   },
+   "source": {
+    "title": "GTA Wiki: Dre'Quan Priest",
+    "url": "https://gta.fandom.com/wiki/Dre'Quan_Priest"
+   }
+  },
+  {
+   "id": "realdimez",
+   "name": "Real Dimez",
+   "role": "Рэп-дуэт",
+   "age": null,
+   "image": null,
+   "color": "#F97316",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Бэй-Люкс и Рокси, подруги со школы, стали рэп-дуэтом Real Dimez благодаря вирусным трекам и неутомимой активности в соцсетях. Ранний хит с местным рэпером DWNPLY принёс им славу; теперь, спустя пять лет, они подписали контракт с Only Raw Records в надежде повторить успех."
+   },
+   "source": {
+    "title": "GTA Wiki: Real Dimez",
+    "url": "https://gta.fandom.com/wiki/Real_Dimez"
+   }
+  },
+  {
+   "id": "raul",
+   "name": "Raul Bautista",
+   "role": "Второстепенный персонаж",
+   "age": null,
+   "image": null,
+   "color": "#EF4444",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Уверенный в себе и обаятельный ветеран-грабитель банков, который всегда ищет новые таланты, готовые на большой риск. В Vice City он становится своего рода наставником для Джейсона и Лусии, но его безрассудство повышает ставки с каждым ограблением."
+   },
+   "source": {
+    "title": "GTA Wiki: Raul Bautista",
+    "url": "https://gta.fandom.com/wiki/Raul_Bautista"
+   }
+  },
+  {
+   "id": "brian",
+   "name": "Brian Heder",
+   "role": "Второстепенный персонаж",
+   "age": null,
+   "image": null,
+   "color": "#14B8A6",
+   "spoilers": [
+    "missions"
+   ],
+   "sections": {
+    "story": "Контрабандист старой школы из золотой эпохи наркотрафика на Кис, который до сих пор переправляет товар через свою лодочную верфь вместе с третьей женой Лори. Он разрешает Джейсону бесплатно жить в одном из своих домов, пока тот помогает ему выбивать долги."
+   },
+   "source": {
+    "title": "GTA Wiki: Brian Heder",
+    "url": "https://gta.fandom.com/wiki/Brian_Heder"
+   }
+  }
+ ]
+}
