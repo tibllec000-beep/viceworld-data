@@ -1,0 +1,77 @@
+{
+ "updatedAt": "2026-11-16T03:26:49.013Z",
+ "wallpapers": [
+  {
+   "id": "w07",
+   "file": "wallpapers/w07.jpg",
+   "thumb": "wallpapers/thumbs/w07.jpg",
+   "free": true
+  },
+  {
+   "id": "w05",
+   "file": "wallpapers/w05.jpg",
+   "thumb": "wallpapers/thumbs/w05.jpg",
+   "free": false
+  },
+  {
+   "id": "w11",
+   "file": "wallpapers/w11.jpg",
+   "thumb": "wallpapers/thumbs/w11.jpg",
+   "free": true
+  },
+  {
+   "id": "w09",
+   "file": "wallpapers/w09.jpg",
+   "thumb": "wallpapers/thumbs/w09.jpg",
+   "free": false
+  },
+  {
+   "id": "w01",
+   "file": "wallpapers/w01.jpg",
+   "thumb": "wallpapers/thumbs/w01.jpg",
+   "free": false
+  },
+  {
+   "id": "w03",
+   "file": "wallpapers/w03.jpg",
+   "thumb": "wallpapers/thumbs/w03.jpg",
+   "free": false
+  },
+  {
+   "id": "w12",
+   "file": "wallpapers/w12.jpg",
+   "thumb": "wallpapers/thumbs/w12.jpg",
+   "free": false
+  },
+  {
+   "id": "w06",
+   "file": "wallpapers/w06.jpg",
+   "thumb": "wallpapers/thumbs/w06.jpg",
+   "free": false
+  },
+  {
+   "id": "w08",
+   "file": "wallpapers/w08.jpg",
+   "thumb": "wallpapers/thumbs/w08.jpg",
+   "free": false
+  },
+  {
+   "id": "w10",
+   "file": "wallpapers/w10.jpg",
+   "thumb": "wallpapers/thumbs/w10.jpg",
+   "free": false
+  },
+  {
+   "id": "w02",
+   "file": "wallpapers/w02.jpg",
+   "thumb": "wallpapers/thumbs/w02.jpg",
+   "free": false
+  },
+  {
+   "id": "w04",
+   "file": "wallpapers/w04.jpg",
+   "thumb": "wallpapers/thumbs/w04.jpg",
+   "free": false
+  }
+ ]
+}
